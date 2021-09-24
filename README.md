@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iTzHuGo
 - 👀 I’m interested in bikes, cars and tech
-- 🌱 I’m currently learning C and have already learnt Python
+- 🌱 I’m currently learning Java and have already learnt Python and C
 
 
 <!---
